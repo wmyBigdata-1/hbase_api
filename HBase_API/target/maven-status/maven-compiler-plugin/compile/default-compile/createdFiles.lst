@@ -1,0 +1,7 @@
+com\wmy\hdfsToHbase\HDFSDriver.class
+com\wmy\hdfsToHbase\HDFSMapper.class
+com\wmy\hdfsToHbase\HDFSReducer.class
+com\wmy\hbase_mr\FruitReducer.class
+com\wmy\hbase_mr\FruitMapper.class
+com\wmy\hbase_mr\FruitDriver.class
+com\wmy\hbase_api\ddl\HbaseDDL.class
